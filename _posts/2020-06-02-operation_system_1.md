@@ -1,8 +1,8 @@
 ---
-title: [운영체제] 운영체제란?, 종류, 목적
-description: 운영체제 공부하기.
+title: 운영체제란?, 종류, 목적
+description: 운영체제 공부하기. 운영체제 정의와 종류, 목적에 대해 알아보자.
 categories:
- - TIL
+ - 운영체제
 tags: Operating-System
 ---
 
